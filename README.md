@@ -8,7 +8,7 @@ PORT=3000
 MONGO_URI="url do seu database mongo"
 
 ```
-- O eslint já vem configurado. Caso queria remover tire das dependencias do package.json éssas linhas:
+- O eslint já vem configurado. Caso queira remover tire das dependências do package.json éssas linhas:
 
 ```json
     "@eslint/js": "^9.3.0",
