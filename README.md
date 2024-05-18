@@ -3,9 +3,10 @@
 
 ## Atenção
 - para funcionar presisa do arquivo ".env"
-```json
+```javascript
 PORT=3000
 MONGO_URI="url do seu database mongo"
+
 ```
 - O eslint já vem configurado. Caso queria remover tire das dependencias do package.json éssas linhas:
 
